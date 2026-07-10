@@ -1,0 +1,1 @@
+package com.cognizant.jpa.service; public class StudentServiceImpl implements StudentService{}

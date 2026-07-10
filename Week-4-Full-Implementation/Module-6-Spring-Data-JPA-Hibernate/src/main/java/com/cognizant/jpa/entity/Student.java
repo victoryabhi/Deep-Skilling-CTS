@@ -1,0 +1,1 @@
+package com.cognizant.jpa.entity; public class Student{private Long id; private String name;}

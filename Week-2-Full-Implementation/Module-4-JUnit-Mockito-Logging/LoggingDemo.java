@@ -1,0 +1,1 @@
+public class LoggingDemo{public static void main(String[]a){System.out.println("INFO");}}

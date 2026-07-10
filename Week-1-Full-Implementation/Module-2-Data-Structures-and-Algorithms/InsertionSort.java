@@ -1,0 +1,1 @@
+import java.util.*;public class InsertionSort{public static void main(String[]a){int[]x={5,2,4,6};for(int i=1;i<x.length;i++){int k=x[i],j=i-1;while(j>=0&&x[j]>k){x[j+1]=x[j];j--;}x[j+1]=k;}System.out.println(Arrays.toString(x));}}

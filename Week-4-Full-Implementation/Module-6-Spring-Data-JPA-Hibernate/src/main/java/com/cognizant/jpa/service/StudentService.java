@@ -1,0 +1,1 @@
+package com.cognizant.jpa.service; public interface StudentService{}

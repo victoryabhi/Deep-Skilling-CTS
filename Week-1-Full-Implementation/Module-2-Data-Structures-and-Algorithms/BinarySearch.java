@@ -1,0 +1,1 @@
+import java.util.*;public class BinarySearch{public static void main(String[]a){int[]x={10,20,30,40,50};int l=0,h=x.length-1,k=40;while(l<=h){int m=(l+h)/2;if(x[m]==k){System.out.println(m);return;}if(x[m]<k)l=m+1;else h=m-1;}System.out.println("Not Found");}}

@@ -1,0 +1,1 @@
+public class UserService{UserRepository r; UserService(UserRepository r){this.r=r;}}

@@ -1,0 +1,1 @@
+package com.cognizant.jpa.controller; public class StudentController{}

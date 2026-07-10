@@ -1,0 +1,1 @@
+import java.util.*;public class LinkedListDemo{public static void main(String[]a){LinkedList<String>l=new LinkedList<>();l.add("Java");l.add("DSA");System.out.println(l);l.removeFirst();System.out.println(l);}}

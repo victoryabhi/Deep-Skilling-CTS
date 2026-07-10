@@ -1,0 +1,1 @@
+public class LinearSearch{public static void main(String[]a){int[]x={10,20,30,40};int k=30;for(int i=0;i<x.length;i++)if(x[i]==k){System.out.println("Found at "+i);return;}System.out.println("Not Found");}}

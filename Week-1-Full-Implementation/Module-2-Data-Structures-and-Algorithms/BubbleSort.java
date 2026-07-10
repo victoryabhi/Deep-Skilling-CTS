@@ -1,0 +1,1 @@
+import java.util.*;public class BubbleSort{public static void main(String[]a){int[]x={5,1,4,2};for(int i=0;i<x.length-1;i++)for(int j=0;j<x.length-1-i;j++)if(x[j]>x[j+1]){int t=x[j];x[j]=x[j+1];x[j+1]=t;}System.out.println(Arrays.toString(x));}}

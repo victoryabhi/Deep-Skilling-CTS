@@ -1,0 +1,1 @@
+package com.cognizant.jpa; public class JpaApplication{public static void main(String[] args){System.out.println("JPA Application");}}

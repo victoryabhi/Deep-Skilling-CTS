@@ -1,0 +1,1 @@
+package com.cognizant.jpa.repository; public interface StudentRepository{}
