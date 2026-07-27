@@ -1,0 +1,12 @@
+com\cognizant\microservices\communication\InterServiceCommunicationController.class
+com\cognizant\microservices\discovery\ServiceDiscoveryController.class
+com\cognizant\microservices\feign\OpenFeignController.class
+com\cognizant\microservices\config\DistributedConfigController.class
+com\cognizant\microservices\load\LoadBalancingController.class
+com\cognizant\microservices\Week6Application.class
+com\cognizant\microservices\feign\ProductClient.class
+com\cognizant\microservices\deployment\DeploymentController.class
+com\cognizant\microservices\introduction\IntroductionToMicroservicesController.class
+com\cognizant\microservices\circuit\CircuitBreakerController.class
+com\cognizant\microservices\creating\CreatingMicroservicesController.class
+com\cognizant\microservices\gateway\ApiGatewayController.class
